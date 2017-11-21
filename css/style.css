@@ -1,22 +1,22 @@
 
  .navbar {    
-   background: black;  
+   background: Silver;  
    text-transform: uppercase;
    font-weight: 700;   
    border: none;    
  }
  .navbar .navbar-brand {
-   color: white;    
+   color: #343E48;    
  }
  .navbar .navbar-brand:hover{
-   color: white;
+   color: #343E48;
  }  
 
  .navbar .navbar-nav li a {
    color: white;
  }
  .navbar .navbar-nav li a:hover {
-   color: gray;
+   color: #343E48;
  }
  
  .navbar-toggle{
@@ -25,8 +25,8 @@
  }   
 
  header {
-   background: gray;
-   color: white;
+   background: #d18884;
+   color: #343E48;
  }   
  header img {    
    display: block;
@@ -88,14 +88,14 @@
  }   
  footer .footer-above {    
    padding-top: 50px;    
-   background-color: black;    
+   background-color: #d18884;    
  }   
  footer .footer-col {    
    margin-bottom: 50px;    
  }   
  footer .footer-below {    
    padding: 25px 0;    
-   background-color: black;    
+   background-color: silver;    
  }   
      
  .btn-outline {    
